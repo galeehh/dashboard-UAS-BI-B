@@ -1,0 +1,6 @@
+![image](https://github.com/galeehh/dashboard-UAS-BI-B/assets/136320512/5b6fd292-5bd9-415a-8d41-4a3f1db98aa8)
+The examination of Click-Through Rates (CTR) for “ZoomRunners” ad placements on a popular news site, spanning ten days, provides several insights:
+CTR Performance: The data indicates CTR variations across different site sections — left sidebar (average 2.9), center content (average 3.5), and right sidebar (average 3.2) over the observed period.
+Effective Ad Position: The analysis highlights the center ad placements as the most successful, achieving the highest CTR of 3.9 on the 2nd date. Conversely, the left placements showed the lowest CTR of 2.4 on the 6th date, emphasizing the effectiveness of center placements in attracting user clicks.
+Statistical Findings: Utilizing ANOVA, the statistical analysis reveals no significant differences among the ad groups (left sidebar, center page, right sidebar, and all), with p-values exceeding 0.05. This implies a uniform CTR performance across these placement locations.
+Implications: Despite daily fluctuations in CTR values, the average performance across the observation period remains relatively consistent among the ad placement locations. Consequently, the current ad placement strategy may not necessitate immediate adjustments.
